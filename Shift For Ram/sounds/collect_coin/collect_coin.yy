@@ -1,0 +1,26 @@
+{
+  "$GMSound":"v2",
+  "%Name":"collect_coin",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "channelFormat":0,
+  "compression":0,
+  "compressionQuality":4,
+  "conversionMode":0,
+  "duration":0.7053061,
+  "exportDir":"",
+  "name":"collect_coin",
+  "parent":{
+    "name":"Shift For Ram",
+    "path":"Shift For Ram.yyp",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"collect_coin.mp3",
+  "volume":1.0,
+}
